@@ -1,6 +1,6 @@
-<a href="https://tokio.studio/">
-    <img alt="Tokio · A Brand OS" src="https://raw.githubusercontent.com/tokiolab/.github/main/profile/banner.png" width="100%">
-</a>
+<img width="1728" height="774" alt="15" src="https://github.com/user-attachments/assets/f9f02948-a19f-42e9-ae28-903cf2b4c97e" />
+
+
 
 <p align="center">
     <strong>A Brand OS. The intelligent layer between your brand and everything AI produces.</strong><br>
