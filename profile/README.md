@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <strong>A Brand OS. The intelligent layer between your brand and everything AI produces.</strong><br>
+    <strong>The intelligent layer between your brand and everything AI produces.</strong><br>
     Structured brand ontology. Semantic conflict resolution.
 </p>
 
